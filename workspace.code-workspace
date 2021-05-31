@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Winter is Coming (Dark Black - No Italics)",
+		"editor.minimap.renderCharacters": false,
+		"workbench.colorCustomizations": {
+		
+		},
+		"window.autoDetectColorScheme": true,
+		"workbench.activityBar.visible": false,
+		"editor.suggest.showStatusBar": true
+	}
+}
