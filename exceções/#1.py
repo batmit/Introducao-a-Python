@@ -13,4 +13,4 @@ for tentativa in range(3):
     except IndexError: # a não ser que ocorra um IndexError
         print("Valor inválido, digite entre - 3 e 3")
 
-        # veja o #2.py para ver o bloco Exception
+        # veja o Excepition.py para ver o bloco Exception
